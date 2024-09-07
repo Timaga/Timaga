@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/uTGE6zSoSs8AAAAC/future-gaming.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tim Buglaev</h1>
 <h3 align="center">A passionate fullstack developer from Russia</h3>
 
