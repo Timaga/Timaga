@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am always learning something new.**
 
-<h3 align="left">Connect with me: **timaga111@yandex.ru** </h3>
+<h3 align="left">Connect with me: timaga111@yandex.ru </h3>
 <p align="left">
 </p>
 
