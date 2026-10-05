@@ -5,13 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timaga&label=Profile%20views&color=0e75b6&style=flat" alt="timaga" /> </p>
 
 
-- 🔭 I’m currently working on **Brain Chat**
-
-- 🌱 I’m currently learning **ML**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **timaga111@yandex.ru**
+- 📫 How to reach me **tim@buglai.com**
 
 - ⚡ Fun fact **I am always learning something new.**
 
