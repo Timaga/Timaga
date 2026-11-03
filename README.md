@@ -16,7 +16,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stats-dark-mobile.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/stats-light-mobile.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="800" alt="Public GitHub snapshot: 1,622 contributions over the past year, 13 public repositories, five primary repository languages.">
+  <img src="assets/stats-dark.svg" width="800" alt="Public GitHub snapshot: 1,622 contributions over the past year, one public repository, four followers.">
 </picture>
 
 <p><sub>Public GitHub snapshot · 3 November 2026.</sub></p>
@@ -78,19 +78,17 @@ z=f_{\theta}(x)
 </p>
 
 <details>
-<summary><strong>Explore language statistics</strong></summary>
+<summary><strong>About these statistics</strong></summary>
 
-<p>Primary language per public repository. Repository counts reflect GitHub's classification, rather than language proficiency or code volume.</p>
+<p>A snapshot of the public GitHub profile, recorded on 3 November 2026.</p>
 
 <table>
-  <thead><tr><th>Primary language</th><th>Repositories</th></tr></thead>
+  <thead><tr><th>Public profile metric</th><th>Count</th></tr></thead>
   <tbody>
-    <tr><td>C++</td><td>5</td></tr>
-    <tr><td>CMake</td><td>2</td></tr>
-    <tr><td>Dart</td><td>1</td></tr>
-    <tr><td>Kotlin</td><td>1</td></tr>
-    <tr><td>Python</td><td>1</td></tr>
-    <tr><td>Not specified</td><td>3</td></tr>
+    <tr><td>Contributions in the past year</td><td>1,622</td></tr>
+    <tr><td>Public repositories</td><td>1</td></tr>
+    <tr><td>Followers</td><td>4</td></tr>
+    <tr><td>Following</td><td>2</td></tr>
   </tbody>
 </table>
 
