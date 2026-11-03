@@ -2,24 +2,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.jpg">
-    <source type="image/webp" srcset="assets/hero.webp">
-    <img src="assets/hero.gif" width="800" alt="Tim Buglaev — Scientist, Researcher, Engineer. Researching neural network training and practical applications, beneath an orbital night sky.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-large-static.jpg">
+    <source type="image/webp" srcset="assets/hero-large.webp">
+    <img src="assets/hero-large.gif" width="100%" alt="Tim Buglaev — Scientist, Researcher, Engineer. Researching neural network training and practical applications, beneath an orbital night sky.">
   </picture>
 </p>
 
 <p align="center">
   <a href="#research">Research</a> · <a href="#experiments">Experiments</a> · <a href="#toolkit">Toolkit</a>
 </p>
-
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stats-dark-mobile.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/stats-light-mobile.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="800" alt="Public GitHub snapshot: 1,622 contributions over the past year, one public repository, four followers.">
-</picture>
-
-<p><sub>Public GitHub snapshot · 3 November 2026.</sub></p>
 
 ## Research
 
@@ -76,23 +67,6 @@ z=f_{\theta}(x)
   <img src="assets/tool-docker.svg" height="32" alt="Docker">
   <img src="assets/tool-git.svg" height="32" alt="Git">
 </p>
-
-<details>
-<summary><strong>About these statistics</strong></summary>
-
-<p>A snapshot of the public GitHub profile, recorded on 3 November 2026.</p>
-
-<table>
-  <thead><tr><th>Public profile metric</th><th>Count</th></tr></thead>
-  <tbody>
-    <tr><td>Contributions in the past year</td><td>1,622</td></tr>
-    <tr><td>Public repositories</td><td>1</td></tr>
-    <tr><td>Followers</td><td>4</td></tr>
-    <tr><td>Following</td><td>2</td></tr>
-  </tbody>
-</table>
-
-</details>
 
 <hr>
 
